@@ -150,9 +150,5 @@ You are free to modify, distribute, and use it for educational or research purpo
 The **Quantum-Enhanced IDS** project bridges **quantum computing** and **cybersecurity research**, offering a practical and visual platform to experiment with hybrid detection techniques.
 Whether for **academic exploration**, **research prototyping**, or **classroom demonstration**, QE-IDS is a step toward the next generation of intelligent, quantum-aware cyber defense systems.
 
-```
 
----
 
-Would you like me to include a **badge section** (e.g., Python version, license, Streamlit version, repo size, etc.) at the top — like a professional open-source README? It makes it look polished for GitHub Pages and research portfolios.
-```

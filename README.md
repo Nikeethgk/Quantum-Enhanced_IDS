@@ -1,17 +1,17 @@
-**⚛️ Quantum-Enhanced Intrusion Detection System (QE-IDS)** project, formatted perfectly for GitHub rendering (consistent headings, tables, emojis, and code blocks).
+ Quantum-Enhanced Intrusion Detection System (QE-IDS)** project, formatted perfectly for GitHub rendering (consistent headings, tables, emojis, and code blocks).
 
 You can copy and paste this directly into a `README.md` file in your repository.
 
 ---
 
 ````markdown
-# ⚛️ Quantum-Enhanced Intrusion Detection System (QE-IDS)
+#  Quantum-Enhanced Intrusion Detection System (QE-IDS)
 
 A **Streamlit-powered simulation and visualization framework** for exploring how **quantum technologies** can transform and enhance Intrusion Detection Systems (IDS) in cybersecurity.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 As quantum computing advances, it introduces both **new attack vectors** and **powerful detection capabilities**.  
 The **Quantum-Enhanced IDS (QE-IDS)** simulates how quantum computing concepts — such as **quantum feature encoding**, **quantum machine learning (QML)**, and **post-quantum cryptography** — can strengthen or challenge classical IDS systems.
@@ -26,7 +26,7 @@ It serves as an **educational and research tool** for understanding the next evo
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - ✅ **Quantum-Driven Anomaly Detection** – Integrates simulated quantum ML classifiers  
 - 📊 **Real-Time Visualization** – Displays detection accuracy, latency, and threat heatmaps  
@@ -37,7 +37,7 @@ It serves as an **educational and research tool** for understanding the next evo
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |------------|-------------|
@@ -50,7 +50,7 @@ It serves as an **educational and research tool** for understanding the next evo
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone this repository
 
@@ -73,9 +73,6 @@ streamlit run qe_ids_app.py
 
 Then, open the Streamlit link displayed in your terminal (usually [http://localhost:8501](http://localhost:8501)).
 
----
-
-## 📈 Sample Output
 
 The simulator includes visualizations such as:
 
@@ -87,7 +84,7 @@ The simulator includes visualizations such as:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 QuantumEnhancedIDS/
@@ -126,24 +123,8 @@ The app visualizes the **fusion results**, showing how quantum inference can imp
     https://github.com/Nikeethgk
 📄 *Academic & Research Project – Quantum-Enhanced Cyber Defense Systems*
 
----
 
-## 🏁 License
 
-This project is released under the **MIT License**.
-You are free to modify, distribute, and use it for educational or research purposes.
-
----
-
-## 💡 Future Enhancements
-
-* 🔗 Integration with **real quantum simulators (Qiskit, PennyLane)**
-* ⚙️ Implementation of **Grover-based anomaly search**
-* 📊 Comparative benchmarking of **classical vs hybrid IDS models**
-* 🤖 Multi-agent simulation (**attacker–defender game-theory model**)
-* 🧠 Integration with **Quantum Incident Response Simulator** for full defense lifecycle visualization
-
----
 
 ## 🌌 Summary
 
